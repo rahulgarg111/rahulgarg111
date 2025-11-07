@@ -3,6 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgarg111&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg111" /> </p>
 
+## 💫 About Me:
+
+Hey there! I'm Rahul — a full-stack developer who loves turning ideas into interactive, scalable web apps.
+
+By day, I'm wiring up APIs, architecting real-time systems, and building snappy interfaces. By night, I'm probably debugging something that worked five minutes ago.
+
+I enjoy blending clean code with great UX, and I'm always chasing that perfect balance between functionality and polish. Lately, I've been diving deep into real-time tech, media servers, and building systems that feel... alive.
+
+Curious mind. Problem solver. Bit of a perfectionist. Let's build something cool! 🚀
+
+## 🎯 Motivations & Interests
+
+I'm driven by the thrill of solving complex problems and crafting systems that feel effortless to use. Whether it's architecting scalable backends, experimenting with new frontend animations, or fine-tuning real-time communication flows — I'm all in.
+
+### 💡 What fuels me:
+
+- Building tech that connects people in real time
+- Turning bold ideas into polished, production-ready products
+- Constantly learning, tinkering, and pushing the limits of what the web can do
+
 - 📫 How to reach me **rahul.garg4489@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
