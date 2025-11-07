@@ -17,6 +17,8 @@ Problem-solver by nature. Builder by passion. Perfectionist by choice. 🚀
 
 ## 🎯 Motivations & Interests
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22212568/file/original-ff1e2347867631f39c5e5341cc22c0dd.gif">
+
 What drives me? The challenge of building software that feels almost magical to use. I love tackling complex technical problems and transforming them into smooth, intuitive experiences that just work.
 
 From designing scalable microservices to fine-tuning frontend animations, I'm constantly experimenting with new approaches and pushing what's possible.
@@ -26,6 +28,8 @@ From designing scalable microservices to fine-tuning frontend animations, I'm co
 - Architecting systems that handle real-time data at scale
 - Transforming ambitious concepts into production-grade applications
 - Exploring emerging tech and constantly expanding my toolkit
+
+<br clear="both">
 
 - 📫 How to reach me **rahul.garg4489@gmail.com**
 
